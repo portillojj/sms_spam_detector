@@ -76,13 +76,13 @@ Some of the code on this assigment was done with the help of a bootcamp tutor.
 ## Authors and acknowledgment
 1. Reference material - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 2. Python HOWTOs - [https://docs.python.org/3/howto](https://docs.python.org/3/howto/index.html)
-3. This site was built using [GitHub Pages](https://pages.github.com/)
+3. Gradio Documentation -[https://www.gradio.app/docs]
+4. This site was built using [GitHub Pages](https://pages.github.com/)
 
 ## License
-Apache License
-Version 2.0, January 2004
+
 
 ## Project status
-- 
+- Submitted for 08.13.2024
 
 ## Footnotes
