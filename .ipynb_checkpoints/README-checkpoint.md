@@ -1,5 +1,5 @@
 # sms_spam_detector
-### Module 21 Challenge 
+Module 21 Challenge 
 
 ## Background
 You'll be refactoring code from an SMS text classification solution into a function that constructs a linear Support Vector Classification (SVC) model. Once the model is created and trained, you will create a Gradio app to host the application, enabling users to test text messages. The application will provide feedback to users, indicating whether the text is classified as spam or not, based on the model's performance.
@@ -51,11 +51,11 @@ Use the `sms_prediction` function to predict the classification of a new text by
 
 2. Launch the application and provide the URL to share the application. Your application should look like the following:
 
-![image](images/sms-text-prediction-gradio-app.png)    
+![alt text](sms-text-prediction-gradio-app.png "sms-text-prediction-gradio-app")    
 
 3. Use the following text messages to test your application.
 
-![alt text](images/sms_image.png "Test Text Messages")  
+![alt text](sms_image.png "Test Text Messages")  
 
 
 ## Badges
